@@ -1,6 +1,6 @@
 {
-  "site_name": "Private Palette",
-  "domain": "https://g10.gogamefun.com",
+  "site_name": "Noir Haven ",
+  "domain": "https://g11.gogamefun.com",
   "ad_network": "PopCash",
   "ads_code": [
     "<script type=\"text/javascript\">var uid = '492091'; var wid = '743969'; var pop_tag = document.createElement('script');pop_tag.src='//cdn.popcash.net/show.js';document.body.appendChild(pop_tag); pop_tag.onerror = function() {pop_tag = document.createElement('script');pop_tag.src='//cdn2.popcash.net/show.js';document.body.appendChild(pop_tag);};</script>"
